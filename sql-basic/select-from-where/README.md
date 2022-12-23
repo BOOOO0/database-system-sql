@@ -1,9 +1,3 @@
-## WHERE 조건문
-
-- `WHERE`문은 가장 기본적인 데이터의 조회에 조건을 거는 명령어이고 사용시 규칙은 다음과 같습니다. `WHERE [조건]`
-
-- 내가 특정 열에서 특정 값을 가진 데이터를 찾고자 할 때 사용할 수 있습니다.
-
 ## SELECT ~ FROM ~ WHERE
 
 - `SELECT [열 이름] FROM [테이블 이름] WHERE [조건]`
@@ -21,45 +15,4 @@
     market_db.member
   WHERE
     mem_name = '블랙핑크';
-  ```
-
-- 일반적인 조건문처럼 다양한 조건의 표현이 가능합니다.
-
-  ```SQL
-  SELECT
-    mem_name
-  FROM
-    market_db.member
-  WHERE
-    height >= 162;
-  ```
-
-  ```SQL
-  SELECT
-    mem_name
-  FROM
-    market_db.member
-  WHERE
-    height >= 162 OR mem_number >=6;
-  ```
-
-- 특정 값 사이의 값은 `BETWEEN ~ AND ~`로 표현할 수도 있습니다.
-
-  ```SQL
-  SELECT
-    mem_name
-  FROM
-    market_db.member
-  WHERE
-    height BETWEEN 162 AND 167; -- height >= 162 AND height <= 167;
-  ```
-
-- `OR`의 반복은 `IN(~)`을 사용할 수 있습니다.
-  ```SQL
-  SELECT
-    mem_name
-  FROM
-    market_db.member
-  WHERE
-    mem_addr IN ('경기','경북','전남');
   ```
