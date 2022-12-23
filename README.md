@@ -6,3 +6,8 @@
   - [인덱스 개요](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/index-practice)
   - [뷰 개요](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/view-practice)
   - [프로시저 개요](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/procedure-practice)
+  - [쿼리문으로 DB 생성](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/create-db)
+- [기본 문법]
+  - [USE](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/use)
+  - [SELECT-FROM-WHERE](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/select-from-where)
+  - [WHERE - (BETWEEN/IN/LIKE)](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/where)
