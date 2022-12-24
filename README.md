@@ -1,4 +1,4 @@
-# SQL 기본 이론과 문법
+# 데이터베이스 기본 이론과 문법
 
 - [기본 이론](https://github.com/BOOOO0/mysql-python/tree/main/sql-basic)
   - [Workbench를 사용한 데이터베이스 모델링 예시](https://github.com/BOOOO0/mysql-python/tree/main/sql-basic/table-tutorial)
