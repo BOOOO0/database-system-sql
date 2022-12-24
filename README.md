@@ -11,3 +11,6 @@
   - [USE](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/use)
   - [SELECT-FROM-WHERE](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/select-from-where)
   - [WHERE - (BETWEEN/IN/LIKE)](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/where)
+  - [ORDER BY](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/order-by)
+  - [LIMIT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/limit)
+  - [DISTINCT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/distinct)
