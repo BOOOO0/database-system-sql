@@ -14,3 +14,8 @@
   - [ORDER BY](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/order-by)
   - [LIMIT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/limit)
   - [DISTINCT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/distinct)
+  - [별칭](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/alias-as)
+  - [GROUP BY](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/group-by)
+  - [집계 함수](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/aggregate-function)
+  - [HAVING](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/having)
+  - [쿼리문 실행 순서](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/sql-execute-order)
