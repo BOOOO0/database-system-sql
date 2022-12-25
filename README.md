@@ -19,3 +19,7 @@
   - [집계 함수](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/aggregate-function)
   - [HAVING](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/having)
   - [쿼리문 실행 순서](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/sql-execute-order)
+  - [INSERT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/insert)
+  - [INSERT INTO ~ SELECT ~](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/insert-into-select)
+  - [AUTO_INCREMENT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/auto-increment)
+  - [DESC문으로 테이블 설계 알아보기](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/desc)
