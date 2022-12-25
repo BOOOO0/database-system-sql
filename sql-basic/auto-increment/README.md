@@ -16,6 +16,5 @@
 
 - `SELECT LAST_INSERT_ID()`는 `AUTO_INCREMENT`로 증가된 값이 현재 얼만큼 증가되었는지를 확인할 때 사용할 수 있습니다.
 
-- ```
-  LAST_INSERT_ID()는 INSERT 쿼리가 성공적으로 실행됐을 때 마지막 AUTO_INCREMENT값을 반환합니다. 데이터를 `bulk insert`한 경우엔 LAST_INSERT_ID()로 데이터의 수를 알아보는 것이 목적이라면 잘못된 값을 얻을 가능성이 있습니다.
-  ```
+- > LAST_INSERT_ID()는 INSERT 쿼리가 성공적으로 실행됐을 때 마지막 AUTO_INCREMENT값을 반환합니다.  
+  > 데이터를 `bulk insert`한 경우엔 LAST_INSERT_ID()로 데이터의 수를 알아보는 것이 목적이라면 잘못된 값을 얻을 가능성이 있습니다.
