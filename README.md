@@ -23,3 +23,5 @@
   - [INSERT INTO ~ SELECT ~](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/insert-into-select)
   - [AUTO_INCREMENT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/auto-increment)
   - [DESC문으로 테이블 설계 알아보기](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/desc)
+  - [UPDATE SET](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/update)
+  - [DELETE FROM](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/delete)
