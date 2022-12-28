@@ -33,3 +33,9 @@
   - [변수](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/variable)
   - [명시적인 형 변환](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/explicit-conversion)
   - [암시적인 형 변환](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/implicit-conversion)
+  - [DATE_FORMAT](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/date-format)
+
+# MySQL 문제 풀이
+
+- [프로그래머스](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving)
+  - [조건에 맞는 도서 리스트 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/144853)
