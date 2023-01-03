@@ -43,3 +43,4 @@
 
 - [프로그래머스](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving)
   - [조건에 맞는 도서 리스트 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/144853)
+  - [흉부외과 또는 일반외과 의사 목록 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/132203)
