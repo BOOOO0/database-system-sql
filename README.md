@@ -23,6 +23,7 @@
   - [GROUP BY](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/group-by)
   - [집계 함수](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/aggregate-function)
   - [HAVING](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/having)
+    - [재구매가 일어난 상품과 회원 리스트 구하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/131536)
   - [INSERT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/insert)
   - [INSERT INTO ~ SELECT ~](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/insert-into-select)
   - [AUTO_INCREMENT](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/auto-increment)
@@ -44,3 +45,5 @@
 - [프로그래머스](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving)
   - [조건에 맞는 도서 리스트 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/144853)
   - [흉부외과 또는 일반외과 의사 목록 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/132203)
+  - [3월에 태어난 여성 회원 목록 출력하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/131120)
+  - [재구매가 일어난 상품과 회원 리스트 구하기](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/programmers/131536)
