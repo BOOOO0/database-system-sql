@@ -34,6 +34,10 @@
   - [명시적인 형 변환](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/explicit-conversion)
   - [암시적인 형 변환](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/implicit-conversion)
   - [DATE_FORMAT](https://github.com/BOOOO0/mysql-study/tree/main/sql-problem-solving/date-format)
+  - [INNER JOIN](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/inner-join)
+  - [OUTER JOIN](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/outer-join)
+  - [CROSS JOIN](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/cross-join)
+  - [SELF JOIN](https://github.com/BOOOO0/mysql-study/tree/main/sql-basic/self-join)
 
 # MySQL 문제 풀이
 
