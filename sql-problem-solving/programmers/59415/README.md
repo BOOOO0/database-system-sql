@@ -1,0 +1,4 @@
+```sql
+SELECT MAX(DATETIME)
+FROM ANIMAL_INS;
+```
